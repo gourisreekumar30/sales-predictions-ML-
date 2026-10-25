@@ -1,4 +1,4 @@
-# Sales Prediction ML Project 🎯
+# Sales Prediction ML Project 
 
 ## About
 My first Machine Learning project!
